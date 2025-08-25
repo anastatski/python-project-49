@@ -13,11 +13,11 @@ Just type a necessary word and enjoy the games.
 
 **List of games**
 
-1st game: "Check if the number is even"
-2d game: "Calculator"
-3d game: :Greatest common divisor"
-4th game: "Arithmetic progression"
-5th game: "Check if the number is prime"
+- 1st game: "Check if the number is even"
+- 2d game: "Calculator"
+- 3d game: :Greatest common divisor"
+- 4th game: "Arithmetic progression"
+- 5th game: "Check if the number is prime"
 
 ## Minimal requirements
 
@@ -35,12 +35,12 @@ git clone git@github.com:anastatski/python-project-49.git
 
 **Type the following commands in your terminal in the project directory:**
 
-brain-games
-brain-even
-brain-calc
-brain-gcd 
-brain-progression
-brain-prime
+- brain-games
+- brain-even
+- brain-calc
+- brain-gcd 
+- brain-progression
+- brain-prime
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=anastatski_python-project-492&metric=bugs)](https://sonarcloud.io/summary/new_code?id=anastatski_python-project-492)
 
