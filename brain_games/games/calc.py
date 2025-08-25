@@ -7,6 +7,7 @@ CALC_INSTRUCTION = 'What is the result of the expression?'
 
 
 def get_expression_and_result():
+    
     number1 = random.randint(1, 10)
     number2 = random.randint(1, 10)
     operations = ['*', '+', '-']

@@ -6,6 +6,7 @@ PROGRESSION_INSTRUCTION = 'What number is missing in the progression?'
 
 
 def get_progr_and_missing_num():
+    
     start = random.randint(1, 50)
     step = random.randint(2, 10)
     progr = []
