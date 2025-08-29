@@ -58,4 +58,21 @@ git clone git@github.com:anastatski/python-project-49.git
 
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=anastatski_python-project-492&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=anastatski_python-project-492)
 
-[![asciicast](https://asciinema.org/a/AoMaybDnqnY9eFgIjeAz0Sm7k.svg)](https://asciinema.org/a/AoMaybDnqnY9eFgIjeAz0Sm7k)
+## Demo
+
+Terminal session recordings of each game
+
+### brain-even
+[![asciicast](https://asciinema.org/a/6eWeAgXzrAu2phoyhD7mXNyHm.svg)](https://asciinema.org/a/6eWeAgXzrAu2phoyhD7mXNyHm)
+
+### brain-calc
+[![asciicast](https://asciinema.org/a/rSo64LNsHFytc9SUEuVv7ZAF9.svg)](https://asciinema.org/a/rSo64LNsHFytc9SUEuVv7ZAF9)
+
+### brain-gcd
+[![asciicast](https://asciinema.org/a/2vT7GCSJczLIv3yWWzlMBNTc8.svg)](https://asciinema.org/a/2vT7GCSJczLIv3yWWzlMBNTc8)
+
+### brain-progression
+[![asciicast](https://asciinema.org/a/k0omuQORPsDqcjTHTMD7F4MNU.svg)](https://asciinema.org/a/k0omuQORPsDqcjTHTMD7F4MNU)
+
+### brain-prime
+[![asciicast](https://asciinema.org/a/mtRjZCTfF1d9ooWDorGDUqzt8.svg)](https://asciinema.org/a/mtRjZCTfF1d9ooWDorGDUqzt8)
