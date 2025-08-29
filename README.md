@@ -21,8 +21,8 @@ Just type a necessary word and enjoy the games.
 
 ## Minimal requirements
 
-Python 3.13 or higher
-Prompt 0.4.1 or higher
+- Python 3.13 or higher
+- Prompt 0.4.1 or higher
 
 ## Installation
 
