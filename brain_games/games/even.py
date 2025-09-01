@@ -4,8 +4,8 @@ import random
 from brain_games.engine import run_game
 
 EVEN_INSTRUCTION = (
-                'Answer "yes" if the number is even, '
-                'otherwise answer "no".'
+    'Answer "yes" if the number is even, '
+    'otherwise answer "no".'
 )
 
 
